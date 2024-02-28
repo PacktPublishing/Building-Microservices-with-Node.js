@@ -1,0 +1,11 @@
+{
+  "name": "example validator",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "node index.js"
+  },
+  "dependencies": {
+    "validator": "^13.11.0"
+  }
+}

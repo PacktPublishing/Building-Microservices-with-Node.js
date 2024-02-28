@@ -1,0 +1,12 @@
+{
+  "name": "example passport",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "node index.js"
+  },
+  "dependencies": {
+    "passport": "^0.7.0",
+    "passport-local": "^1.0.0"
+  }
+}

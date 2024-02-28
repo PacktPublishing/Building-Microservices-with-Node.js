@@ -1,0 +1,10 @@
+{
+  "name": "example jest",
+  "private": true,
+  "scripts": {
+    "test": "npx jest"
+  },
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}

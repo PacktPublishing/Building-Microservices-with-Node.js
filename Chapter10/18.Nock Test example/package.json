@@ -1,0 +1,11 @@
+{
+  "name": "example nock",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "node index.js"
+  },
+  "dependencies": {
+    "nock": "^13.5.4"
+  }
+}

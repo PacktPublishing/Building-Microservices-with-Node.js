@@ -1,0 +1,11 @@
+{
+  "name": "example supertest",
+  "private": true,
+  "scripts": {
+    "test": "npx jest"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "supertest": "^6.3.4"
+  }
+}
