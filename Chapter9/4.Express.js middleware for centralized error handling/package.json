@@ -1,0 +1,11 @@
+{
+  "name": "example middleware",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
