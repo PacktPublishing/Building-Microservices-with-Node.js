@@ -1,0 +1,11 @@
+{
+  "name": "example winston 1",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "node index.js"
+  },
+  "dependencies": {
+    "winston": "^3.11.0"
+  }
+}
