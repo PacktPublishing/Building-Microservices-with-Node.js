@@ -40,7 +40,7 @@ describe('My API', () => {
 
 This microservices and Node.js book is for backend developers, full-stack developers, software architects, and frontend developers who want to venture into the world of backend development and extend their capabilities. A fundamental understanding of the JavaScript ecosystem will be helpful but not necessary, as this book will cover the essentials of backend development, JavaScript programming, and Node.js.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-13).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-16).
 
 ### Software and Hardware List
 
