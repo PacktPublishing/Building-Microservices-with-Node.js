@@ -4,7 +4,7 @@
 
 This is the code repository for [Building Microservices with Node.js](https://www.packtpub.com/product/building-microservices-with-nodejs/9781838985936), published by Packt.
 
-**Explore microservices applications and migrate from a monolith architecture to microservices
+**Explore microservices applications and migrate from a monolith architecture to microservices**
 
 ## What is this book about?
 Do you want to immerse yourself in the world of microservices? Building Microservices with Node.js will guide you through migration from a monolithic architecture to microservices. With this book, you’ll acquire a deep understanding of microservices architecture and apply it confidently in your web application projects.
