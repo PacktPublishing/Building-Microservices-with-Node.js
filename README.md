@@ -52,9 +52,9 @@ With the following software and hardware list you can run all code files present
 
 
 ### Related products <Other books you may enjoy>
-* Node.js Web Development - Fourth Edition [[Packt]](https://www.packtpub.com/product/nodejs-web-development-fourth-edition/9781788626859) [[Amazon]](https://www.amazon.in/dp/1788626850)
+* Node.js Web Development - Fourth Edition [[Packt]](https://www.packtpub.com/product/nodejs-web-development-fourth-edition/9781788626859) [[Amazon]](https://www.amazon.com/dp/1788626850)
 
-* Node.js Web Development - Fifth Edition [[Packt]](https://www.packtpub.com/product/nodejs-web-development-fifth-edition/9781838987572) [[Amazon]](https://www.amazon.in/dp/1838987576)
+* Node.js Web Development - Fifth Edition [[Packt]](https://www.packtpub.com/product/nodejs-web-development-fifth-edition/9781838987572) [[Amazon]](https://www.amazon.com/dp/1838987576)
 
 ## Get to Know the Author
 **Daniel Kapexhiu**
